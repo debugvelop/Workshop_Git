@@ -5,3 +5,6 @@ Git is a version control system that works by tracking any changes that happens 
 Git helps you to focus on codes rather to manually create different versions of codes everytime you do the change. When your codes break,
 just revert it to previous version with Git. When your codes gone, just clone it from Github. And many more uses as you dive deeper into
 Git and Github.
+
+# Getting started
+Make sure Git is installed. Then start by <b> git clone </b>
